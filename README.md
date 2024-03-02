@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Emin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emin017)](https://github.com/Emin017/github-readme-stats)
 <!--
 **Emin017/Emin017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
