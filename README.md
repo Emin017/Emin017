@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![Emin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emin017&show_icons=true)](https://github.com/Emin017/github-readme-stats)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Emin017&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emin017&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" height="150" alt="languages graph"/>
+</div>
 
 - 🌱 I’m currently learning computer architecture, and the fundamentals of compiler theory.
 ## ⚡ Skills
@@ -17,7 +20,6 @@
 [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)]()
 [![Neovim Badge](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat-square&logo=neovim&logoColor=white)]()
 [![Vim Badge](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white)]()
-[![Vscode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)]()
 
 </div>
 
