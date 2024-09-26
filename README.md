@@ -1,13 +1,13 @@
 ### Hi there 👋
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Emin017&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emin017&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&hide=html" height="150" alt="languages graph"/>
 </div>
 
 - 🌱 I’m currently learning computer architecture, and the fundamentals of compiler theory.
 ## ⚡ Skills
-<div>
-  
+<div align="center">
+
 [![C Badge](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)]()
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)]()
 [![Scala Badge](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)]()
@@ -25,8 +25,6 @@
  <img src="risc-v.svg" width = "38" height = "38" alt="RISCV"/>
 
 </div>
-
-<br>
 
 ## 📫 Contacts
 Mail: cchuqiming@gmail.com
