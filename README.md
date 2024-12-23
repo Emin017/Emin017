@@ -29,4 +29,6 @@
 ## 📫 Contacts
 Mail: cchuqiming@gmail.com
 
-Telegram group: https://t.me/+LDJ7Aj3gyP4wOTEx
+Tg: https://t.me/EminorChord
+
+Tg group: https://t.me/EminorWorld
