@@ -25,6 +25,8 @@
  <img src="risc-v.svg" width = "38" height = "38" alt="RISCV"/>
 
 </div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 📫 Contacts
 Mail: cchuqiming@gmail.com
