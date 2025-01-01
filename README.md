@@ -26,7 +26,7 @@
 
 </div>
 
-## 📊 Monthly development
+## 📊 Weekly development
 <!--START_SECTION:waka-->
 
 ```rust
