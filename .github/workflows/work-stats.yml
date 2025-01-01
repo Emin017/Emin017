@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   schedule:
     # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    - cron: "0 17 * * *"
 
 jobs:
   update-readme:
@@ -23,13 +23,13 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           CODE_LANG: rust # optional
-          TIME_RANGE: last_30_days # optional
+          TIME_RANGE: last_7_days # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: false # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: false # optional
-          IGNORED_LANGUAGES: YAML JSON TOML HTML Binary # optional
+          IGNORED_LANGUAGES: HTML Binary Other # optional
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: main # optional
