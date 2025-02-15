@@ -5,6 +5,7 @@
 </div>
 
 - 🌱 I’m currently learning computer architecture and compiler theory.
+- see [i.emin.chat](https://i.emin.chat) for more information
 ## ⚡ Skills
 <div align="center">
 
@@ -48,6 +49,4 @@ sshconfig                       ░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ## 📫 Contacts
-Mail: cchuqiming@gmail.com
-
-More Info: [i.emin.chat](https://i.emin.chat)
+Mail: [cchuqiming@gmail.com](mailto:cchuqiming@gmail.com) or [me@emin.chat](mailto:me@emin.chat)
