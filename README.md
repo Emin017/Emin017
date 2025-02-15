@@ -50,6 +50,4 @@ sshconfig                       ░░░░░░░░░░░░░░░░
 ## 📫 Contacts
 Mail: cchuqiming@gmail.com
 
-Tg: https://t.me/EminorChord
-
-Tg group: https://t.me/EminorWorld
+More Info: [i.emin.chat](https://i.emin.chat)
