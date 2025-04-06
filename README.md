@@ -24,7 +24,7 @@
 [![Vim Badge](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white)]()
 <br>
  <img src="ysyx.png" width = "38" height = "38" alt="YSYX Badge"/>
- <img src="risc-v.svg" width = "38" height = "38" alt="RISCV"/>
+ <img src="https://cdn.simpleicons.org/riscv/283272.svg" width = "38" height = "38" alt="RISCV"/>
 
 </div>
 
@@ -50,4 +50,4 @@ Bash                       ▒░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## 📫 Contacts
-Mail: `cchuqiming [at] gmail [dot] com` or `me [at] emin [dot] chat`
+Mail: [&#99;&#99;&#104;&#117;&#113;&#105;&#109;&#110;&#103;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;](mailto:&#99;&#99;&#104;&#117;&#113;&#105;&#109;&#110;&#103;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;) or [&#109;&#101;&#64;&#101;&#109;&#105;&#110;&#46;&#99;&#104;&#97;&#116;](mailto:&#109;&#101;&#64;&#101;&#109;&#105;&#110;&#46;&#99;&#104;&#97;&#116;)
