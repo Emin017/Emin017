@@ -50,4 +50,4 @@ Bash                       ▒░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ## 📫 Contacts
-Mail: [cchuqiming@gmail.com](mailto:cchuqiming@gmail.com) or [me@emin.chat](mailto:me@emin.chat)
+Mail: `cchuqiming [at] gmail [dot] com` or `me [at] emin [dot] chat`
