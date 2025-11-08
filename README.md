@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emin017&theme=calm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=false&hide=html" height="150" alt="languages graph"/>
 </div>
 
-- 🌱 I’m currently learning Chip Design flow and Compiler Theory.
+- 🌱 I’m currently learning Chip Design flow.
 - 💻 See [i.emin.chat](https://i.emin.chat) for more information
 - ❤️ Sponsor me: [Emin](https://patreon.com/Emin017)
 ## ⚡ Skills
