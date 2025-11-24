@@ -14,7 +14,6 @@
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)]()
 [![Scala Badge](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)]()
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)]()
-[![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=flat-square&logo=zig&logoColor=white)]()
 [![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=flat-square&logo=NixOS&logoColor=white)]()
 [![NixOS Badge](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=fff)](#)
 [![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)]()
