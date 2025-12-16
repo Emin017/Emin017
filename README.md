@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emin017&theme=calm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emin017&theme=calm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=false&hide=html" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats-nine-bice-34.vercel.app/api?username=Emin017&theme=calm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats-nine-bice-34.vercel.app/api/top-langs?username=Emin017&theme=calm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=false&hide=html" height="150" alt="languages graph"/>
 </div>
 
 - 🌱 I’m currently learning Chip Design flow.
