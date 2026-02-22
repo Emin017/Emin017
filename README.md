@@ -31,15 +31,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 13 February 2026 - To: 20 February 2026
+From: 14 February 2026 - To: 21 February 2026
 
-Total Time: 2 hrs 54 mins
+Total Time: 12 mins
 
-Markdown                         ████████████▓░░░░░░░░░░░░   50.42 %
-Docker                           ███████▓░░░░░░░░░░░░░░░░░   30.17 %
-Python                           ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
-Nix                              █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-JSON                             ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Nix                               ███████████████▒░░░░░░░░░   61.78 %
+sshconfig                         █████████▒░░░░░░░░░░░░░░░   37.84 %
 ```
 
 <!--END_SECTION:waka-->
