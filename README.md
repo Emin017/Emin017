@@ -31,11 +31,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 30 September 2026 - To: 07 October 2026
+From: 01 October 2026 - To: 08 October 2026
 
-Total Time: 0 secs
+Total Time: 2 hrs 45 mins
 
-No activity tracked
+Nix                              █████████▓░░░░░░░░░░░░░░░   38.37 %
+V                                █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
+Markdown                         █████▒░░░░░░░░░░░░░░░░░░░   21.39 %
+C++                              ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
+YAML                             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
